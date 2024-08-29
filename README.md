@@ -2,6 +2,6 @@
 
 Unofficial Cloudflare Workers KV SDK for Rust-Lang
 
-## Docs:
+完整文档请访问: https://blog.highp.ing/p/cloudflare-workers-kv-sdk-rs/
 
-Have a Wait
+Full Docs Please Visit: https://blog.highp.ing/p/cloudflare-workers-kv-sdk-rs-eng/
